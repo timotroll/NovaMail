@@ -79,9 +79,6 @@ python novamail_bot.py
 └─ LICENSE
 ```
 
----
-
-
 ## Лицензия
 
 MIT (см. файл `LICENSE`).
