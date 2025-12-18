@@ -1,0 +1,23 @@
+{
+  "smtp_accounts_text": "user@example.com;app-password;smtp.gmail.com;465;SSL;Отправитель;src=1",
+  "def_start_row": 2,
+  "def_email_col": 9,
+  "def_fio_from": 27,
+  "def_fio_to": 34,
+  "limit_count": 10,
+  "delay_sec": 30,
+  "pair_mode": false,
+  "random_limit_enabled": false,
+  "random_delay_enabled": false,
+  "schedule_enabled": false,
+  "subject_tpl": "От компании {fio}",
+  "body_tpl": "Здравствуйте, {fio}!\n\nТестовое сообщение.\n\nС уважением,\nВаша компания.",
+  "subject_tpl_nofio": "От компании",
+  "body_tpl_nofio": "Здравствуйте!\n\nТестовое сообщение.\n\nС уважением,\nВаша компания.",
+  "campaign_theme": "",
+  "campaign_wishes": "",
+  "mailing_id": "demo",
+  "attachments": [],
+  "attachments_description": "",
+  "company_site": "https://example.com"
+}

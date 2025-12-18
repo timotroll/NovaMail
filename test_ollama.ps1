@@ -1,0 +1,1 @@
+curl -Uri "http://127.0.0.1:11434/api/generate" -Method POST -Headers @{ "Content-Type"="application/json" } -Body '{"model":"email-writer","prompt":"full_name: Тестовый Получатель\nemail: test@example.com\ntopic: Проверка рассылки\nextra_info: коротко\nattachments_description: нет вложений","stream":false}'

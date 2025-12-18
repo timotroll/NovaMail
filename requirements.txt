@@ -1,0 +1,5 @@
+pandas>=2.0
+openpyxl>=3.1
+natasha>=1.6
+pymorphy2-dicts-ru>=2.4
+tkhtmlview>=0.2.0
